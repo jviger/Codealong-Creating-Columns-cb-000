@@ -106,7 +106,7 @@ background: #ccc;
 }
 
 .first {
-  left-margin: 0%;
+  margin-left: 0%;
 }
 
 .clearfix:after {
