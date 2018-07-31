@@ -72,6 +72,12 @@ figcaption {
 }
 /* LAYOUT */
 
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
 .wrapper {
 width: 1080px;  
 margin: 0 auto;
